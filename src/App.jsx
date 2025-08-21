@@ -3,9 +3,9 @@ import { Routes,Route } from 'react-router';
 
 //components
 import Homepage from './components/Homepage';
-import Login from './components/login';
+import Login from './components/Login';
 import Signup from './components/Signup';
-import Profile from './components/PROFILE.JSX';
+import Profile from './components/Profile';
 
 
 function App() {
