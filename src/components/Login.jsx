@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router';
 
-function login() {
+function Login() {
   return (
       <div className="flex items-center justify-center min-h-screen bg-[#F7F8F9]">
       <div className="w-[375px] h-[812px] bg-[#F7F8F9] flex flex-col px-[20px] pt-[40px] shadow-lg rounded-[16px]">
@@ -50,4 +50,4 @@ function login() {
 }
 
 
-export default login;
+export default Login;
